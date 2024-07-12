@@ -1,4 +1,4 @@
-import st_app as st
+import streamlit as st
 import pandas as pd
 import time
 import matplotlib.pyplot as plt
